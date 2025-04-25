@@ -3,6 +3,7 @@ This is a small guide to install qbittorrent-nox on a ubuntu system. It pretty m
 
 ## Requirements
 - Ubuntu Installation
+- sudo access
 
 ## Setup
 ### Installation
